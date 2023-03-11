@@ -1,0 +1,8 @@
+{
+    "name": "CrashFix",
+    "description": "尝试修复一些网易云自身可能导致崩溃的 Bug  (可能会导致内存用量增长 | 不知道好不好使)",
+    "author": "MicroBlock",
+    "native_plugin": "CrashFix.dll",
+    "injects": {},
+    "preview": "preview.png"
+}
